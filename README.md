@@ -7,7 +7,7 @@ http://agunghernanda17.pythonanywhere.com/
 Simple static onepage web using bootstrap and flask
 
 ### Credits
-credits from themehippo
+template used from themehippo
 
 ### Usage
 1. Install Python dependencies: requirements.txt
