@@ -1,0 +1,6 @@
+#environment yang digunakan
+export FLASK_APP=myapp
+#development mode
+export FLASK_ENV=development
+#run flask
+flask run
